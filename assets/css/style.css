@@ -1,0 +1,111 @@
+body {
+	background-image: url("../images/moonscape.image.jpg");
+	font-family: 'Orbitron', sans-serif;
+}
+
+h1 {
+	color: #a64dff;
+
+}
+
+h3 {
+ 
+    font-size: 30px;
+ 
+    font-weight:bold;
+ 
+    color: transparent;
+ 
+    letter-spacing: .10em;
+ 
+    text-shadow: -9px -8px 2px rgba(193, 94, 221, 0.43),1px -1px 0 #fe6161, 2px 1px 3px #737272,3px 3px 1px #37408C;
+ 
+} 
+
+h4 {
+	color: #e5ccff;
+
+	font-weight:bold;
+}
+
+.shadow-effects {
+ 
+    font-size:60px;
+ 
+    font-weight:bold;
+ 
+    color: transparent;
+ 
+    letter-spacing: .10em;
+ 
+    text-shadow: -9px -8px 2px rgba(193, 94, 221, 0.43),1px -1px 0 #fe6161, 2px 1px 3px #737272,3px 3px 1px #37408C;
+ 
+} 
+
+.shadow-effects-two {
+ 
+/*    display: block;
+ 
+    text-align: right;
+ 
+    font-size:18px;
+ 
+/*    font-family: verdana;*/
+ 
+    letter-spacing: .09em;
+ 
+    color: #FAFAFE;
+ 
+    text-shadow: 0.45rem -0.45rem #B41039, 0 0.5rem rgba(255, 88, 9, 0.75);
+ 
+} 
+
+
+.firstBox {
+	padding: 10px;
+}
+
+/*.secondBox {
+	border: 1px solid white;
+	padding: 10px;
+}*/
+
+.thirdBox {
+	border: 2px solid green;
+	padding: 10px;
+}
+
+/*.fourthBox {
+	border: 2px solid yellow;
+	padding: 10px;
+}*/
+
+.fiveBox {
+	border: 2px solid red;
+	padding: 10px;
+}
+
+.sixthBox {
+	border: 2px solid green;
+	padding: 10px;
+}
+
+/* .imgOneBox {
+	border: 2px solid red;
+	padding: 10px;
+}
+
+.imgTwoBox {
+	border: 2px solid blue;
+	padding: 10px;
+}
+
+.imgThreeBox {
+	border: 2px solid green;
+	padding: 10px;
+}
+
+.imgFourBox {
+	border: 2px solid yellow;
+	padding: 10px;
+}
